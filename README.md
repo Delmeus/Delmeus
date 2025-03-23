@@ -1,11 +1,11 @@
 # Antoni Toczyński
 
 ## About me
-I am a student of 3rd year of my engineering studies majoring in Computer Science at Wrocław University of Science and Technology. I have a strong passion for computer science and technology, and I'm constantly eager to expand my knowledge and skills in this field.
+I am a masters student majoring in Technical Informatics at Wrocław University of Science and Technology. I have a strong passion for computer science and technology, and I'm constantly eager to expand my knowledge and skills in this field.
 
 ## Skills
 - **Programming languages:** I am proficent in C++, Python and Java, as I have worked with these languages extensively during my studies and personal projects.
-- **Databases:** I have good understanding of SQL and its basic concepts.
+- **Databases:** I have good understanding of SQL.
 - **Networking:** I hold a CCNAv7 certificate.
 
 ## Contact
